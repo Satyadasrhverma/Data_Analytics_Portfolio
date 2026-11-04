@@ -562,3 +562,4 @@ Project
 DataCo Supply Chain Analytics
 
 This project is part of my Data Analytics Portfolio and demonstrates practical experience in **data cleaning, exploratory data analysis, SQL business analysis, Power BI dashboard development, data visualization, and business insight generation.
+# Data_Analytics_Portfolio
